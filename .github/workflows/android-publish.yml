@@ -16,7 +16,7 @@ on:
 jobs:
   android:
     runs-on: ubuntu-latest
-    if: ${{ github.event.inputs.android != 'false' && github.repository == 'yuzu-emu/yuzu' }}
+    if: ${{ github.event.inputs.android != 'false' && github.repository == 'holaimscott/yuzu-a10-archive' }}
     steps:
       # this checkout is required to make sure the GitHub Actions scripts are available
       - uses: actions/checkout@v3
