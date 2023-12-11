@@ -54,7 +54,7 @@ android {
     defaultConfig {
         // TODO If this is ever modified, change application_id in strings.xml
         applicationId = "org.yuzu.yuzu_emu"
-        minSdk = 30
+        minSdk = 29
         targetSdk = 34
         versionName = getGitVersion()
 
