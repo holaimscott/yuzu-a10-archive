@@ -6,7 +6,8 @@ name: 'yuzu-android-build'
 on:
   push:
     tags: [ "*" ]
-
+  workflow_dispatch:
+     
 jobs:
   android:
     runs-on: ubuntu-latest
