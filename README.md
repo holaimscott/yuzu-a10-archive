@@ -1,4 +1,4 @@
-# This is a fork of Yuzu that allows it to run on Andorid 10. These builds are made by SapphireRhodonite and myself.
+# This is a fork of Yuzu that allows it to run on Android 10. These builds are made by SapphireRhodonite and myself.
 ## Please note that this build is not officially supported by Yuzu, so it might not work perfectly on your device, nor can we offer any support other than building the APKs. 
 
 | Pull Request | Commit | Title | Author | Merged? |
